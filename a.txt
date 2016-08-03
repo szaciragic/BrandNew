@@ -2,3 +2,6 @@ master
 master
 branch3-master
 origin-master
+branch2
+branch2
+branch2
