@@ -1,2 +1,1 @@
-branch4 on master
-branch4-szaciragic
+master after merge from branch4
